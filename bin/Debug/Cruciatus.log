@@ -1,0 +1,249 @@
+[17:24:25] [Info] Element 'AutomationId: MenuBar' not found 
+[17:25:38] [Info] Element 'AutomationId: MenuBar' not found 
+[17:43:47] [Info] Element 'AutomationId: MenuBar' not found 
+[17:44:51] [Info] Element 'AutomationId: MenuBar' not found 
+[17:54:02] [Info] Element '(Name: Калькулятор) and ControlType: System.Windows.Automation.ControlType' not found 
+[18:07:41] [Info] Element '(Name: Калькулятор) and ControlType: System.Windows.Automation.ControlType' not found 
+[18:09:32] [Info] Element '(Name: Калькулятор) and ControlType: System.Windows.Automation.ControlType' not found 
+[18:11:04] [Info] Element '(Name: Калькулятор) and ControlType: System.Windows.Automation.ControlType' not found 
+[18:14:40] [Info] Element '(Name: Калькулятор) and ControlType: System.Windows.Automation.ControlType' not found 
+[18:37:43] [Info] Element 'AutomationId: MenuBar' not found 
+[18:39:14] [Info] Element 'AutomationId: MenuBar' not found 
+[18:40:24] [Info] Element 'AutomationId: 132' not found 
+[18:52:08] [Info] Element 'Name: View' not found 
+[18:52:08] [Error] Item 'View' not found. Find item failed. 
+[18:52:39] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (320, 140) ClickablePoint 
+[18:52:49] [Info] Element 'Name: View' not found 
+[18:52:49] [Error] Item 'View' not found. Find item failed. 
+[19:03:39] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (320, 140) ClickablePoint 
+[19:03:49] [Info] Element 'Name: Scientific' not found 
+[19:03:49] [Error] Item 'Scientific' not found. Select item failed. 
+[19:04:39] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (320, 140) ClickablePoint 
+[19:04:55] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (320, 140) ClickablePoint 
+[19:05:05] [Info] Element 'Name: Scientific Calculator' not found 
+[19:05:06] [Error] Item 'Scientific Calculator' not found. Select item failed. 
+[19:05:27] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (320, 140) ClickablePoint 
+[19:05:27] [Debug] Element 'type: ControlType.Text, uid: PaneTitleTextBlock' not have ClickablePoint 
+[19:05:27] [Debug] Element 'type: ControlType.Text, uid: PaneTitleTextBlock' have empty BoundingRectangle 
+[19:05:27] [Debug] Element 'type: ControlType.Text, uid: PaneTitleTextBlock' not support InvokePattern 
+[19:05:27] [Error] Click on 'type: ControlType.Text, uid: PaneTitleTextBlock' element failed 
+[19:05:48] [Info] Click on 'type: ControlType.Button, uid: TogglePaneButton, name: Close Navigation' element at (320, 140) ClickablePoint 
+[19:05:48] [Debug] Element 'type: ControlType.Text, uid: PaneTitleTextBlock' not have ClickablePoint 
+[19:05:48] [Debug] Element 'type: ControlType.Text, uid: PaneTitleTextBlock' have empty BoundingRectangle 
+[19:05:48] [Debug] Element 'type: ControlType.Text, uid: PaneTitleTextBlock' not support InvokePattern 
+[19:05:48] [Error] Click on 'type: ControlType.Text, uid: PaneTitleTextBlock' element failed 
+[19:07:39] [Info] Element 'AutomationId: 132' not found 
+[19:07:55] [Info] Element 'AutomationId: 132' not found 
+[19:16:30] [Info] Click on 'type: ControlType.Button, uid: num2Button, name: Two' element at (487,5, 549) ClickablePoint 
+[19:16:30] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (919, 687) ClickablePoint 
+[19:16:30] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[19:16:31] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (456, 616,5) BoundingRectangle center 
+[19:16:31] [Debug] Element 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' not have ClickablePoint 
+[19:16:31] [Info] Click on 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' element at (919, 545,5) BoundingRectangle center 
+[19:16:31] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[19:16:32] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (609,5, 545,5) BoundingRectangle center 
+[19:16:32] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[19:16:32] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (919, 756,5) BoundingRectangle center 
+[19:16:56] [Info] Click on 'type: ControlType.Button, uid: num2Button, name: Two' element at (559,5, 573) ClickablePoint 
+[19:16:57] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (1009, 716) ClickablePoint 
+[19:16:57] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[19:16:57] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (546, 645,5) BoundingRectangle center 
+[19:16:57] [Debug] Element 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' not have ClickablePoint 
+[19:16:58] [Info] Click on 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' element at (1009, 574,5) BoundingRectangle center 
+[19:16:58] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[19:16:58] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (699,5, 574,5) BoundingRectangle center 
+[19:16:58] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[19:16:59] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (1009, 785,5) BoundingRectangle center 
+[19:17:20] [Info] Click on 'type: ControlType.Button, uid: num2Button, name: Two' element at (622,5, 600,5) ClickablePoint 
+[19:17:20] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (1025, 751) ClickablePoint 
+[19:17:21] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[19:17:21] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (653,5, 704) BoundingRectangle center 
+[19:17:21] [Debug] Element 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' not have ClickablePoint 
+[19:17:22] [Info] Click on 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' element at (1024,5, 656) BoundingRectangle center 
+[19:17:22] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[19:17:22] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (777,5, 656) BoundingRectangle center 
+[19:17:22] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[19:17:23] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (1024,5, 798) BoundingRectangle center 
+[19:17:41] [Info] Click on 'type: ControlType.Button, uid: num2Button, name: Two' element at (622,5, 600,5) ClickablePoint 
+[19:17:42] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (1025, 751) ClickablePoint 
+[19:17:42] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[19:17:42] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (653,5, 704) BoundingRectangle center 
+[19:17:42] [Debug] Element 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' not have ClickablePoint 
+[19:17:43] [Info] Click on 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' element at (1024,5, 656) BoundingRectangle center 
+[19:17:43] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[19:17:43] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (777,5, 656) BoundingRectangle center 
+[19:17:44] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[19:17:44] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (1024,5, 798) BoundingRectangle center 
+[19:18:24] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (436,5, 517) ClickablePoint 
+[19:18:24] [Info] Click on 'type: ControlType.Button, uid: num2Button, name: Two' element at (700, 716) ClickablePoint 
+[19:18:24] [Debug] Element 'type: ControlType.Button, uid: plusButton, name: Plus' not have ClickablePoint 
+[19:18:25] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (1009, 715,5) BoundingRectangle center 
+[19:18:25] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[19:18:25] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (546, 645,5) BoundingRectangle center 
+[19:18:25] [Debug] Element 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' not have ClickablePoint 
+[19:18:26] [Info] Click on 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' element at (1009, 574,5) BoundingRectangle center 
+[19:18:26] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[19:18:27] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (699,5, 574,5) BoundingRectangle center 
+[19:18:27] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[19:18:27] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (1009, 785,5) BoundingRectangle center 
+[19:19:39] [Info] Click on 'type: ControlType.Button, uid: num2Button, name: Two' element at (559,5, 573) ClickablePoint 
+[19:19:39] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (1009, 716) ClickablePoint 
+[19:19:39] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[19:19:40] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (546, 645,5) BoundingRectangle center 
+[19:19:40] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[19:19:41] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (1009, 785,5) BoundingRectangle center 
+[19:20:11] [Info] Click on 'type: ControlType.Button, uid: num2Button, name: Two' element at (559,5, 573) ClickablePoint 
+[19:20:12] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (1009, 716) ClickablePoint 
+[19:20:12] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[19:20:12] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (546, 645,5) BoundingRectangle center 
+[19:20:12] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[19:20:13] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (1009, 785,5) BoundingRectangle center 
+[19:28:08] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (559,5, 461) ClickablePoint 
+[19:28:08] [Info] Click on 'type: ControlType.Button, uid: num2Button, name: Two' element at (700, 716) ClickablePoint 
+[19:28:08] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[19:28:09] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (546, 645,5) BoundingRectangle center 
+[19:28:09] [Debug] Element 'type: ControlType.Button, uid: plusButton, name: Plus' not have ClickablePoint 
+[19:28:10] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (1009, 715,5) BoundingRectangle center 
+[19:28:10] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[19:28:10] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (546, 645,5) BoundingRectangle center 
+[19:28:10] [Debug] Element 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' not have ClickablePoint 
+[19:28:11] [Info] Click on 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' element at (1009, 574,5) BoundingRectangle center 
+[19:28:11] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[19:28:11] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (699,5, 574,5) BoundingRectangle center 
+[19:28:11] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[19:28:12] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (1009, 785,5) BoundingRectangle center 
+[19:28:31] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (559,5, 460) ClickablePoint 
+[19:28:32] [Info] Click on 'type: ControlType.Button, uid: num2Button, name: Two' element at (700, 716) ClickablePoint 
+[19:28:32] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[19:28:32] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (546, 645,5) BoundingRectangle center 
+[19:28:32] [Debug] Element 'type: ControlType.Button, uid: plusButton, name: Plus' not have ClickablePoint 
+[19:28:33] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (1009, 715,5) BoundingRectangle center 
+[19:28:33] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[19:28:33] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (546, 645,5) BoundingRectangle center 
+[19:28:33] [Debug] Element 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' not have ClickablePoint 
+[19:28:34] [Info] Click on 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' element at (1009, 574,5) BoundingRectangle center 
+[19:28:34] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[19:28:34] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (699,5, 574,5) BoundingRectangle center 
+[19:28:35] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[19:28:35] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (1009, 785,5) BoundingRectangle center 
+[19:30:32] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (559,5, 460) ClickablePoint 
+[19:30:33] [Info] Click on 'type: ControlType.Button, uid: num2Button, name: Two' element at (700, 716) ClickablePoint 
+[19:30:33] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[19:30:34] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (546, 645,5) BoundingRectangle center 
+[19:30:34] [Debug] Element 'type: ControlType.Button, uid: plusButton, name: Plus' not have ClickablePoint 
+[19:30:34] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (1009, 715,5) BoundingRectangle center 
+[19:30:34] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[19:30:35] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (546, 645,5) BoundingRectangle center 
+[19:30:35] [Debug] Element 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' not have ClickablePoint 
+[19:30:35] [Info] Click on 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' element at (1009, 574,5) BoundingRectangle center 
+[19:30:35] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[19:30:36] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (699,5, 574,5) BoundingRectangle center 
+[19:30:36] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[19:30:37] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (1009, 785,5) BoundingRectangle center 
+[19:32:23] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (599, 569) ClickablePoint 
+[19:32:23] [Info] Click on 'type: ControlType.Button, uid: num2Button, name: Two' element at (599, 715) ClickablePoint 
+[19:32:24] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (511, 642) ClickablePoint 
+[19:32:24] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (775, 715) ClickablePoint 
+[19:32:25] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (511, 642) ClickablePoint 
+[19:32:25] [Info] Click on 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' element at (775, 569) ClickablePoint 
+[19:32:26] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (599, 569) ClickablePoint 
+[19:32:26] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (775, 787) ClickablePoint 
+[01:00:12] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (143, 629) ClickablePoint 
+[01:00:13] [Info] Click on 'type: ControlType.Button, uid: num2Button, name: Two' element at (143, 775) ClickablePoint 
+[01:00:13] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (55, 702) ClickablePoint 
+[01:00:14] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (319, 775) ClickablePoint 
+[01:00:14] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (55, 702) ClickablePoint 
+[01:00:15] [Info] Click on 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' element at (319, 629) ClickablePoint 
+[01:00:15] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (143, 629) ClickablePoint 
+[01:00:16] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (319, 847) ClickablePoint 
+[01:00:27] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (143, 629) ClickablePoint 
+[01:00:28] [Info] Click on 'type: ControlType.Button, uid: num2Button, name: Two' element at (143, 775) ClickablePoint 
+[01:00:28] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (55, 702) ClickablePoint 
+[01:00:29] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (319, 775) ClickablePoint 
+[01:00:29] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (55, 702) ClickablePoint 
+[01:00:30] [Info] Click on 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' element at (319, 629) ClickablePoint 
+[01:00:30] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (143, 629) ClickablePoint 
+[01:00:31] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (319, 847) ClickablePoint 
+[01:02:24] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (194,5, 508) ClickablePoint 
+[01:02:25] [Info] Click on 'type: ControlType.Button, uid: num2Button, name: Two' element at (244, 776) ClickablePoint 
+[01:02:26] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[01:02:27] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (90, 705,5) BoundingRectangle center 
+[01:02:27] [Debug] Element 'type: ControlType.Button, uid: plusButton, name: Plus' not have ClickablePoint 
+[01:02:27] [Info] Click on 'type: ControlType.Button, uid: plusButton, name: Plus' element at (553, 775,5) BoundingRectangle center 
+[01:02:27] [Debug] Element 'type: ControlType.Button, uid: num4Button, name: Four' not have ClickablePoint 
+[01:02:28] [Info] Click on 'type: ControlType.Button, uid: num4Button, name: Four' element at (90, 705,5) BoundingRectangle center 
+[01:02:28] [Debug] Element 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' not have ClickablePoint 
+[01:02:28] [Info] Click on 'type: ControlType.Button, uid: multiplyButton, name: Multiply by' element at (553, 634,5) BoundingRectangle center 
+[01:02:28] [Debug] Element 'type: ControlType.Button, uid: num8Button, name: Eight' not have ClickablePoint 
+[01:02:29] [Info] Click on 'type: ControlType.Button, uid: num8Button, name: Eight' element at (243,5, 634,5) BoundingRectangle center 
+[01:02:29] [Debug] Element 'type: ControlType.Button, uid: equalButton, name: Equals' not have ClickablePoint 
+[01:02:30] [Info] Click on 'type: ControlType.Button, uid: equalButton, name: Equals' element at (553, 845,5) BoundingRectangle center 
+[18:21:16] [Info] Element '(AutomationId: CalculatorResults) and ControlType: System.Windows.Automation.ControlType' not found 
+[18:21:17] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (264, 493) ClickablePoint 
+[18:23:02] [Info] Element '(AutomationId: CalculatorResults) and ControlType: System.Windows.Automation.ControlType' not found 
+[18:23:02] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (264, 493) ClickablePoint 
+[18:37:07] [Info] Element '(AutomationId: CalculatorResults) and ControlType: System.Windows.Automation.ControlType' not found 
+[18:37:08] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[18:38:30] [Info] Element '(AutomationId: CalculatorResults) and ControlType: System.Windows.Automation.ControlType' not found 
+[18:38:31] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[18:40:14] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[18:41:24] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[18:41:24] [Debug] Element 'type: ControlType.Text, uid: CalculatorResults, name: Display is 7,681145747868608' not support TextPattern 
+[18:41:24] [Debug] Element 'type: ControlType.Text, uid: CalculatorResults, name: Display is 7,681145747868608' not support ValuePattern 
+[18:41:24] [Error] Get text from 'type: ControlType.Text, uid: CalculatorResults, name: Display is 7,681145747868608' element failed. 
+[18:48:08] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[18:52:49] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[18:56:55] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[18:56:55] [Info] Click on 'type: ControlType.Button, uid: xpower2Button, name: Square' element at (184, 533) ClickablePoint 
+[18:58:09] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[18:58:09] [Info] Click on 'type: ControlType.Button, uid: xpower2Button, name: Square' element at (184, 533) ClickablePoint 
+[18:59:15] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[18:59:16] [Info] Click on 'type: ControlType.Button, uid: xpower2Button, name: Square' element at (184, 533) ClickablePoint 
+[19:09:00] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[19:36:45] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 534) ClickablePoint 
+[19:36:45] [Info] Click on 'type: ControlType.Button, uid: xpower2Button, name: Square' element at (184, 533) ClickablePoint 
+[19:39:01] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[19:39:02] [Info] Click on 'type: ControlType.Button, uid: xpower2Button, name: Square' element at (184, 533) ClickablePoint 
+[19:40:26] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[19:40:27] [Info] Click on 'type: ControlType.Button, uid: xpower2Button, name: Square' element at (184, 533) ClickablePoint 
+[19:41:15] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[19:41:15] [Info] Click on 'type: ControlType.Button, uid: xpower2Button, name: Square' element at (184, 533) ClickablePoint 
+[19:42:26] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[19:42:26] [Info] Click on 'type: ControlType.Button, uid: xpower2Button, name: Square' element at (184, 533) ClickablePoint 
+[19:43:06] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[19:43:53] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[19:46:12] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[19:57:55] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[20:06:57] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[20:07:41] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (298, 490) ClickablePoint 
+[20:08:52] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[20:09:38] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[20:31:26] [Info] Element '(Name: Calculator) and ControlType: System.Windows.Automation.ControlType' not found 
+[20:31:45] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (309,5, 517) ClickablePoint 
+[20:33:31] [Info] Element '(Name: Calculator) and ControlType: System.Windows.Automation.ControlType' not found 
+[20:34:46] [Debug] Element 'type: ControlType.Button, uid: squareRootButton, name: Square root' not have ClickablePoint 
+[20:34:47] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299,5, 532,5) BoundingRectangle center 
+[20:34:59] [Debug] Element 'type: ControlType.Button, uid: squareRootButton, name: Square root' not have ClickablePoint 
+[20:35:00] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299,5, 532,5) BoundingRectangle center 
+[20:35:43] [Info] Element '(Name: Calculator) and ControlType: System.Windows.Automation.ControlType' not found 
+[20:40:10] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[20:41:02] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[20:42:25] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[20:44:16] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[20:45:43] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[20:47:44] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[20:47:45] [Info] Click on 'type: ControlType.Button, uid: xpower2Button, name: Square' element at (184, 533) ClickablePoint 
+[20:47:54] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[20:48:43] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[20:49:43] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[20:49:44] [Info] Click on 'type: ControlType.Button, uid: xpower2Button, name: Square' element at (184, 533) ClickablePoint 
+[20:49:50] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[20:49:51] [Info] Click on 'type: ControlType.Button, uid: xpower2Button, name: Square' element at (184, 533) ClickablePoint 
+[20:57:54] [Info] Element '(Name: Calculator) and ControlType: System.Windows.Automation.ControlType' not found 
+[20:59:34] [Info] Element '(Name: Calculator) and ControlType: System.Windows.Automation.ControlType' not found 
+[21:00:10] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 534) ClickablePoint 
+[21:00:10] [Info] Click on 'type: ControlType.Button, uid: xpower2Button, name: Square' element at (184, 533) ClickablePoint 
+[21:01:30] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 534) ClickablePoint 
+[21:01:31] [Info] Click on 'type: ControlType.Button, uid: xpower2Button, name: Square' element at (184, 533) ClickablePoint 
+[21:02:23] [Info] Click on 'type: ControlType.Button, uid: squareRootButton, name: Square root' element at (299, 533) ClickablePoint 
+[21:02:24] [Info] Click on 'type: ControlType.Button, uid: xpower2Button, name: Square' element at (184, 533) ClickablePoint 
